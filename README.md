@@ -57,6 +57,10 @@ Email Me 👉 ✉️ **ranjan72525@gmail.com** For Collaboration/Project or Anyt
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajputranjan7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ## 🎓 Certifications
 - 📜 **NPTEL – Computer Networks** | IIT/NIT Faculty | 2025
@@ -79,9 +83,9 @@ Email Me 👉 ✉️ **ranjan72525@gmail.com** For Collaboration/Project or Anyt
 - 📖 **Relevant Coursework:** DSA, OOP, DBMS, Operating Systems, Computer Networks
 
 ## 🧩 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajputranjan7?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajput_ranjan_07?theme=dark&font=Karma&ext=heatmap)
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-rajputranjan7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajputranjan7)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-rajput__ranjan__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajput_ranjan_07/)
 
 ---
 
@@ -97,9 +101,6 @@ Email Me 👉 ✉️ **ranjan72525@gmail.com** For Collaboration/Project or Anyt
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=rajputranjan7&icon=1&color=4)](https://visitcount.itsvg.in)
 

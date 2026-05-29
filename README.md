@@ -57,10 +57,6 @@ Email Me 👉 ✉️ **ranjan72525@gmail.com** For Collaboration/Project or Anyt
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajputranjan7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## 🎓 Certifications
 - 📜 **NPTEL – Computer Networks** | IIT/NIT Faculty | 2025
@@ -81,6 +77,11 @@ Email Me 👉 ✉️ **ranjan72525@gmail.com** For Collaboration/Project or Anyt
 ## 📚 Competitive Programming
 - 💡 **LeetCode:** 100+ problems solved
 - 📖 **Relevant Coursework:** DSA, OOP, DBMS, Operating Systems, Computer Networks
+
+## 🧩 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajputranjan7?theme=dark&font=Karma&ext=heatmap)
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-rajputranjan7-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajputranjan7)
 
 ---
 
